@@ -1,1 +1,1 @@
-# Replace-and-modernize-legacy-VPN-architectures-with-a-cloud-native-Zscaler-Zero-Trust-solution
+https://drive.google.com/file/d/1d0yl3cd6Y3BhplsIfHkzarmgKR8HDPmT/view?usp=drivesdk
